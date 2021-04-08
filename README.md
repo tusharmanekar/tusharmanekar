@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tushar Manekar (@tusharmanekar)
+- 👋 Hi, I’m Tushar Manekar
 - 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence
 - 🌱 I’m currently learning AWS for Machine Learning
 - 💞️ I’m looking to collaborate on ML, DL and AI projects/research
